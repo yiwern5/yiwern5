@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NUShop<br>👯 I’m looking to collaborate on software engineer related field<br>🌱 I’m currently a Computer Science student in National University of Singapore.
+🔭 I’m currently working on NUShop.<br>👯 I’m looking to collaborate on software engineer related field.<br>🌱 I’m currently a Computer Science student in National University of Singapore.
 
 
 ## 🌐 Socials:
