@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tsui Yi Wern</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&color=F78BF1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Tsui+Yi+Wern!;" />
+</h1>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/8f/ce/758fce66508ff38809b308e1cf329679.gif">
 
-[![](https://visitcount.itsvg.in/api?id=yiwern5&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yiwern5&icon=0&color=10)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [NUShop](https://nushop.dreamhosters.com/)
 
@@ -10,11 +12,9 @@
 
 - 👯 I’m looking to collaborate on **Software Engineering, Data Analysis and Machine Learning related field**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yiwern5](https://github.com/yiwern5)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://github.com/yiwern5)
 
-- 📫 How to reach me **nicoletyw505@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/yiwern5](https://github.com/yiwern5)
+- 📄 Know about my experiences [here](https://github.com/yiwern5)
 
 - ⚡ Fun fact: **I am left-handed!**
 
