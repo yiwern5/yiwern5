@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&color=F78BF1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Tsui+Yi+Wern!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&size=35&color=F78BF1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Tsui+Yi+Wern!;" />
 </h1>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/8f/ce/758fce66508ff38809b308e1cf329679.gif">
