@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Software Engineering, Data Analysis and Machine Learning related field**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://github.com/yiwern5)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://tsui-yi-wern.vercel.app/)
 
 - 📄 Know about my experiences [here](https://github.com/yiwern5)
 
