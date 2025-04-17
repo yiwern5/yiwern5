@@ -6,8 +6,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=yiwern5&icon=0&color=10)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [NUShop](https://nushop.dreamhosters.com/)
-
 - 🌱 I’m currently a **Computer Science student in National University of Singapore**
 
 - 👯 I’m looking to collaborate on **Software Engineering, Data Analysis and Machine Learning related field**
