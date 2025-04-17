@@ -19,8 +19,6 @@
 ## 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yi-wern-tsui-735372221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yi-wern-tsui-735372221" height="30" width="40" /></a>
-<a href="https://instagram.com/y.wern_tsuii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.wern_tsuii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nicoletyw505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nicoletyw505" height="30" width="40" /></a>
 </p>
 
 ## ⚙️ Languages and Tools:
