@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://tsui-yi-wern.vercel.app/)
 
+- 🛠️ I am currently building [Agrolitik](www.agrolitik.com)
+
 - 📄 Know about my experiences [here](https://github.com/yiwern5)
 
 - ⚡ Fun fact: **I am left-handed!**
@@ -26,10 +28,10 @@
 
 ## 📊 GitHub Stats:
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=yiwern5&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true" alt="yiwern5" />
-  <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=yiwern5&theme=synthwave&hide_border=false" alt="yiwern5" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=yiwern5&hide_border=false&include_all_commits=false&count_private=true" alt="yiwern5" />
+  <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=yiwern5&hide_border=false" alt="yiwern5" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiwern5&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="yiwern5" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiwern5&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="yiwern5" />
 </div>
 
 ### 🏆 GitHub Trophies
