@@ -10,11 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Software Engineering, Data Analysis and Machine Learning related field**
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://tsui-yi-wern.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://tsuiyiwern.vercel.app/)
 
 - 🛠️ I am currently building [Agrolitik](www.agrolitik.com)
-
-- 📄 Know about my experiences [here](https://github.com/yiwern5)
 
 - ⚡ Fun fact: **I am left-handed!**
 
