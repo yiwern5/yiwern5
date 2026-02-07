@@ -27,7 +27,6 @@
 ## 📊 GitHub Stats:
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-github-readme-stats.svg)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yiwern5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
