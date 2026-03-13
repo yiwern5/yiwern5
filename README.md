@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://tsuiyiwern.vercel.app/)
 
-- 🛠️ I am currently building [Agrolitik](www.agrolitik.com)
+- 🛠️ I am currently building [Agrolitik](https://agrolitik.com)
 
 - ⚡ Fun fact: **I am left-handed!**
 
